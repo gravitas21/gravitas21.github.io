@@ -2,3 +2,4 @@ config.ini
 *.rst
 *.ipynb
 *.json
+resume.pdf
